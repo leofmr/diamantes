@@ -1,4 +1,4 @@
-# Teste – Cientista de Dados
+# Análise da Distribuição de Diamantes
 
 Uma empresa de mineração de diamantes pretende estimar o peso total em quilates extraído com base nas condições de campo. Para isso, é necessário encontrar uma distribuição estatística que se ajuste bem aos dados e, com base nela, serão gerados valores aleatórios para estimar probabilidades de peso total extraído com base no número diário de diamantes.
 1)	Utilizando o data-set fornecido, de dados de diamantes, encontre uma curva que bem se adequa à variável carat (peso em quilates). Para isso, proponha pelo menos três distribuições que representam de forma adequada os dados e utilize um critério de seleção de modelos para determinar a melhor distribuição.
